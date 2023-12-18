@@ -1,0 +1,15 @@
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\bin\Debug\net6.0\Control_1_quarter.exe
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\bin\Debug\net6.0\Control_1_quarter.deps.json
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\bin\Debug\net6.0\Control_1_quarter.runtimeconfig.json
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\bin\Debug\net6.0\Control_1_quarter.dll
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\bin\Debug\net6.0\Control_1_quarter.pdb
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\Control_1_quarter.csproj.AssemblyReference.cache
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\Control_1_quarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\Control_1_quarter.AssemblyInfoInputs.cache
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\Control_1_quarter.AssemblyInfo.cs
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\Control_1_quarter.csproj.CoreCompileInputs.cache
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\Control_1_quarter.dll
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\refint\Control_1_quarter.dll
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\Control_1_quarter.pdb
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\Control_1_quarter.genruntimeconfig.cache
+C:\Users\Антанас (TOPSELLER)\Desktop\C#\Control_1_quarter\obj\Debug\net6.0\ref\Control_1_quarter.dll
