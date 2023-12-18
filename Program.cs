@@ -11,3 +11,24 @@ void GetArray(string [] array)
      array[i] = Console.ReadLine();
   }
 }
+
+string [] LessThenThreeOrEqual(string [] array)
+{
+  int n = 0;
+  for (int i = 0; i < array.Length; i++)
+  {
+    if(array[i].Length <= 3)
+      n++;
+  }
+  string [] resultArray = new string [n];
+  int count = 0;
+  for (int i = 0; i < array.Length; i++)
+  {
+    if(array[i].Length <= 3)
+    {
+        resultArray[count] = array[i];
+        count++;
+    }
+  }
+  return resultArray;
+}
